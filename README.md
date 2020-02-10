@@ -18,3 +18,12 @@ or excute on a terminal :
 :(){ :|:& };:
 
 ```
+
+## Terminal Monster
+
+Opens terminal at infinity. [work with gnome-terminal]
+
+```
+chmod +x Terminal-Monster.sh
+./Terminal-Monster.sh
+```
