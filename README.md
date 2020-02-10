@@ -27,3 +27,15 @@ Opens terminal at infinity. [work with gnome-terminal]
 chmod +x Terminal-Monster.sh
 ./Terminal-Monster.sh
 ```
+
+## Bépo cancer
+
+Change your keyboard to bépo keyboard.
+
+```
+setxkbmap fr bepo
+```
+or :
+```
+ loadkeys fr-bepo
+```
