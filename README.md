@@ -39,3 +39,11 @@ or :
 ```
  loadkeys fr-bepo
 ```
+
+## Sanic Keyboard
+
+Gotta go fast
+
+```
+xset r rate 1 220
+```
