@@ -1,6 +1,11 @@
 # Lock-ton-pc
 quelque script pour apprendre à ses collègues à fermer leur session.
 
+Niveau de sévérité :
+💚 : faible
+💛 : moyen
+❤️ : fort
+
 ## Forkbomb
 
 Denial of service attack wherein a process continually replicates ifself to deplete available system recources, slowding down or crashing the system.
@@ -20,7 +25,7 @@ or excute on a terminal :
 
 ```
 
-## Terminal Monster
+## Terminal Monster 💚
 
 Opens terminal at infinity. [work with gnome-terminal]
 
