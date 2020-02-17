@@ -2,9 +2,10 @@
 quelque script pour apprendre à ses collègues à fermer leur session.
 
 Niveau de sévérité :
-💚 : faible
-💛 : moyen
-❤️ : fort
+
+- 💚 : faible
+- 💛 : moyen
+- ❤️ : fort
 
 ## Forkbomb
 
