@@ -7,7 +7,7 @@ Niveau de sévérité :
 - 💛 : moyen
 - ❤️ : fort
 
-## Forkbomb
+## Forkbomb ❤️
 
 Denial of service attack wherein a process continually replicates ifself to deplete available system recources, slowding down or crashing the system.
 
@@ -36,7 +36,7 @@ chmod +x Terminal-Monster.sh
 ./Terminal-Monster.sh
 ```
 
-## Bépo cancer
+## Bépo cancer 💛
 
 Change your keyboard to bépo keyboard.
 
@@ -48,7 +48,7 @@ or :
  loadkeys fr-bepo
 ```
 
-## Sanic Keyboard
+## Sanic Keyboard ❤️
 
 Gotta go fast
 
